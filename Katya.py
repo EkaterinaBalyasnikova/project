@@ -89,6 +89,7 @@ def print_new_table():
         cell = cell_movement(random_move, cell)
     return cell
 
+
 def start():
     """Данная функция предоставляет игроку выбор и объясняет правила игры"""
 

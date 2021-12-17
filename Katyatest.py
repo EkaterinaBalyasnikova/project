@@ -1,6 +1,6 @@
 import unittest
 
-from main import validation
+from Katya import validation
 
 class ProjectTest(unittest.TestCase):
 
